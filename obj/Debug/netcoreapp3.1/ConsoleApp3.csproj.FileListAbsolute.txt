@@ -1,0 +1,8 @@
+C:\Users\saura\Desktop\rough\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\saura\Desktop\rough\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\saura\Desktop\rough\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\saura\Desktop\rough\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\saura\Desktop\rough\ConsoleApp3\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\saura\Desktop\rough\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CopyComplete
+C:\Users\saura\Desktop\rough\ConsoleApp3\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\saura\Desktop\rough\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
